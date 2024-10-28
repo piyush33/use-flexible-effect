@@ -1,0 +1,25 @@
+{
+    "name": "use-flexible-effect",
+    "version": "1.0.0",
+    "description": "A custom React hook that conditionally executes like useEffect but can be triggered within a function.",
+    "main": "src/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/piyush33/use-flexible-effect"
+    },
+    "keywords": [
+        "react",
+        "hook",
+        "useEffect",
+        "conditional effect",
+        "custom hook"
+    ],
+    "author": "Piyush Yadav",
+    "license": "MIT",
+    "dependencies": {
+        "react": "^17.0.0 || ^18.0.0"
+    },
+    "peerDependencies": {
+        "react": "^17.0.0 || ^18.0.0"
+    }
+}
